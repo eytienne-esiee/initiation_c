@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hello world!\n");
+	printf("15 / 6 = %d\n", 15/6);
 }
