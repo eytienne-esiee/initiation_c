@@ -1,0 +1,7 @@
+Sont valides :
+
+Variable
+Nom_De_Variable
+nom_de_variable
+nom_de_variable_123
+_707
