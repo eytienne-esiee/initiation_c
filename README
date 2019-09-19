@@ -1,0 +1,2 @@
+use this to compile : 
+    gcc copie.c -o result -ansi -std=c99 -pedantic-errors && ./result
